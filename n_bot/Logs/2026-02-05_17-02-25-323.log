@@ -1,0 +1,8 @@
+﻿LOG 2026/02/05
+Save Path: /data/data/com.termux/files/home/n_bot/Logs
+Task Start: 2026/02/05 17:02:25
+Task CommandLine: ./N_m3u8DL-RE https://your.m3u8/or.mpd/link --save-dir downloads -sv 1080p -sa eng -ss On
+
+17:02:25.347 INFO : N_m3u8DL-RE (Beta version) 20251029
+17:02:25.350 EXTRA: ffmpeg => /data/data/com.termux/files/usr/bin/ffmpeg
+17:02:25.351 INFO : Loading URL: https://your.m3u8/or.mpd/link

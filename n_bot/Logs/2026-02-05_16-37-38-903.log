@@ -1,0 +1,8 @@
+﻿LOG 2026/02/05
+Save Path: /data/data/com.termux/files/home/n_bot/Logs
+Task Start: 2026/02/05 16:37:38
+Task CommandLine: ./N_m3u8DL-RE https://avodsls3ww-s.akamaihd.net/d/2rlSU-AHwnKvK3sUGYPUoufMV-sd/ondemand/ww_bom/c05d/1fdb/1761/42f0-a992-c5c60dfbc4f3/f59f4e3f-7c39-4921-bd0e-167d4b1c67dd.ism/manifest?encoding=segmentBase --save-dir downloads -sv 1080p -sa eng -ss On
+
+16:37:38.922 INFO : N_m3u8DL-RE (Beta version) 20251029
+16:37:38.923 EXTRA: ffmpeg => /data/data/com.termux/files/usr/bin/ffmpeg
+16:37:38.923 INFO : Loading URL: https://avodsls3ww-s.akamaihd.net/d/2rlSU-AHwnKvK3sUGYPUoufMV-sd/ondemand/ww_bom/c05d/1fdb/1761/42f0-a992-c5c60dfbc4f3/f59f4e3f-7c39-4921-bd0e-167d4b1c67dd.ism/manifest?encoding=segmentBase

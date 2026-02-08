@@ -1,0 +1,8 @@
+﻿LOG 2026/02/05
+Save Path: /data/data/com.termux/files/home/n_bot/Logs
+Task Start: 2026/02/05 16:35:33
+Task CommandLine: ./N_m3u8DL-RE https://etvwin-s3.akamaized.net/6491e0c4c7036a0cfa0831be/HD_playlist.m3u8 --save-dir downloads -sv 1080p -sa eng -ss On
+
+16:35:33.903 INFO : N_m3u8DL-RE (Beta version) 20251029
+16:35:33.904 EXTRA: ffmpeg => /data/data/com.termux/files/usr/bin/ffmpeg
+16:35:33.904 INFO : Loading URL: https://etvwin-s3.akamaized.net/6491e0c4c7036a0cfa0831be/HD_playlist.m3u8
